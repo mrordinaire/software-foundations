@@ -826,7 +826,7 @@ Unlike in Coq, we don't need to perform such a rewrite for \idr{mult_0_plus} in
 Idris and can just use \idr{Refl} instead.
 
 
-==== Exercise: 2 starts (mult_S_1)
+==== Exercise: 2 stars (mult_S_1)
 
 >   mult_S_1 : (n, m : Nat) -> (m = S n) -> m * (1 + n) = m * m
 >   mult_S_1 n m prf = ?mult_S_1_rhs
