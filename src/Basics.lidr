@@ -1005,7 +1005,7 @@ the property that \idr{f x = not x}.
 $\square$
 
 
-==== Exercise: 2 start (andb_eq_orb)
+==== Exercise: 2 stars (andb_eq_orb)
 
 Prove the following theorem. (You may want to first prove a subsidiary lemma or
 two. Alternatively, remember that you do not have to introduce all hypotheses at
